@@ -3,4 +3,6 @@
 }
 body {
     font: normal 16px Helvetica, Arial, sans-serif;
+    background-color: lightgray;
+    padding: 100px;
 }
